@@ -40,8 +40,7 @@ Analysis was done with the data by comparing the state participation rate and sc
 
 As majority of the states have made ACT as the mandatory test, higher participation rate in ACT test observed in both years. A negative linear correlation was observed between participation rate of ACT and participation rate of SAT in both years. States that have high participation rate in ACT test will tend to have low participation rate in SAT test and vice versa. 
 
-An interesting trend of participation rate has been observed in some states. Colorado and Illinois has a drastic decrease in participation rate (from 100% to 30% and from 93% to 43%) for ACT and the drastic increase of participation rate (from 11% to 100% and from 9% to 99%) for SAT observed in the same years. This is due to Colorado making SAT test mandatory start from year 2018 and in the same year, ACT has lost the contract for being the test provider in Illinois. Thus, one can see the importance of individual state graduate requirement affecting the participation rate of both SAT and ACT tests.
-
+An interesting trend of participation rate has been observed in some states. Colorado and Illinois has a drastic decrease in participation rate (from 100% to 30% and from 93% to 43%) for ACT and the drastic increase of participation rate (from 11% to 100% and from 9% to 99%) for SAT observed in the same years. This is due to Colorado making SAT test mandatory start from year 2018 and in the same year, ACT has lost the contract for being the test provider in Illinois. Some states with high participation rate have made the SAT test mandatory because of their bad financial condition. Therefore, they have no choice but to take the cheaper alternative (SAT) to be their mandatory test. Thus, one can see the importance of individual state graduate requirement affecting the participation rate of both SAT and ACT tests. 
 
 
 ### Conclusion & Recommendation
@@ -49,6 +48,8 @@ An interesting trend of participation rate has been observed in some states. Col
 
 A pattern of states with higher SAT total scores and lower participation rates has been observed in both years. This is likely due to statewide requirement for mandatory ACT test. Students will less likely take both tests even if there is an option for them unless they are confident that they will score well. 
 
-Only considering the states that doesn't require mandatory ACT test, Minnesota has a higher total SAT score even though the participation rate is less than 5%, which one can assume that students in Minnesota has the potential to do well in SAT test.
+Based on research, states that have higher participation rate for SAT are states that are highly in debt. Most of the states choose to take part in SAT School Day as it is a much cheaper alternative as compared to ACT and students will be able to take the SAT test for free. 
 
-Considering Minnesota is in quite some debt, SAT test is a cheaper alternative for the state to implement as a graduation exam. College Board could focus their efforts to Minnesota in order to be the only test provider in this state. Thus, improving the participation rate for SAT test.
+Only considering the states that doesn't require mandatory ACT test, Ohio requires students to take either ACT or SAT on their own expenses in order to graduate. SAT School Day will be a good program for the state to be involved in so that they can make SAT the only mandatory test. This will be a good factor to improve participation rate for SAT as it will be free for students. 
+
+Considering Ohio is one of the states highly in debt, SAT test is a cheaper alternative for the state to implement as a graduation exam. College Board could focus their efforts to Ohio in order to be the only test provider in this state. Thus, improving the participation rate for SAT test.
